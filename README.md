@@ -30,7 +30,7 @@ Ao longo dos meus estudos, construí uma base sólida nas seguintes linguagens, 
 
 ## 📫 Como me encontrar
 
-* **E-mail:** [](luccasoliveiradossantos93@gmail.com)
+* **E-mail:** [luccasoliveiradossantos93@gmail.com](luccasoliveiradossantos93@gmail.com)
 * **LinkedIn:** [](https://www.linkedin.com/in/seu-perfil/)
 
 ---
