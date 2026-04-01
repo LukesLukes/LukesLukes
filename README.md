@@ -6,7 +6,7 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e fo
 
 ## 🚀 Sobre Mim
 
-* 💻 Atualmente cursando Desenvolvimento de Sistemas.
+* 💻 Atualmente cursando Desenvolvimento de Sistemas pelo SENAI.
 * 📍 Morando em Salvador - BA.
 * 💡 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, tanto no front-end quanto no back-end.
 
